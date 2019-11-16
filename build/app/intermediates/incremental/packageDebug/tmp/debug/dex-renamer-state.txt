@@ -1,4 +1,0 @@
-#Sat Nov 16 11:01:04 CST 2019
-base.0=/Users/zhou/Desktop/flutterSpace/firstFlutterApp/first_flutter_app/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
